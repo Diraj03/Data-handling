@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
 
 # import the dataset
-data = pd.read_csv('spotify.csv', encoding='ISO-8859-1')
+data = pd.read_csv('Spotify.csv', encoding='ISO-8859-1')
 print(data.columns)
 print(data)
 
